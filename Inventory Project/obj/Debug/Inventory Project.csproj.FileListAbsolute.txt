@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.exe.config
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.exe
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\bin\Debug\Inventory Project.pdb
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.Form1.resources
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.Properties.Resources.resources
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.csproj.CopyComplete
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.exe
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory Project.pdb
+C:\Users\ACER\source\repos\Inventory Project\Inventory Project\obj\Debug\Inventory_Project.MenuForm.resources
